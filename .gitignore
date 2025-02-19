@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+venv_pm/
+
+.env
+
+*.pptx
+*.xlsb
+example/
+
+config.py
